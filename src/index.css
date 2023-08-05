@@ -28,11 +28,11 @@
   --font-size-tiny: 0.579rem;
 
   /* COLORS THEMES */
-  --color-text: hsl(270, 77%, 95%);
+  --color-text: black;
   --color-background: #171617;
   --color-primary: #444241;
   --color-secondary: #262527;
-  --color-accent:
+  --color-accent:  #00ffff;
 
 
   /* Font Families */
