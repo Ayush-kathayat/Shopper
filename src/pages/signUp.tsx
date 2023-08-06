@@ -1,6 +1,5 @@
 import "./signUp.css";
 
-
 const SignUp = () => {
     return(
     <>
