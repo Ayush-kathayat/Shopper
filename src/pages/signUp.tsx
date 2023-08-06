@@ -1,5 +1,6 @@
-import "./signUp.css";
 
+
+import "./signUp.css";
 
 const SignUp = () => {
     return(
