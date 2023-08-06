@@ -1,6 +1,12 @@
-.signUp {
+@import url("../styles/media.css");
+
+.root {
   display: flex;
   flex-direction: row-reverse;
+
+  @media (--media-max-lg) {
+    display: none;
+  }
 }
 
 .signUp-card {
