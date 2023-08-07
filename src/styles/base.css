@@ -7,14 +7,6 @@
 
   /* ====== */
 
-  /* BREAKPOINTS */
-  --bp-max-xs: 575px;
-  --bp-min-sm: 576px;
-  --bp-min-md: 768px;
-  --bp-min-lg: 992px;
-  --bp-min-xl: 1200px;
-  --bp-min-xxl: 1400px;
-
   /* Font Size */
   --font-size-em: 1.2em;
   --font-size-mammoth: 2.488rem;
